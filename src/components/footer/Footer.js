@@ -17,7 +17,8 @@ const Footer = () => {
 						<FooterLinks>
 							<div className='footer-top'>
 								<div className='logo'>
-									<img src={logo} alt='' />
+									{/* <img src={logo} alt='' /> */}
+									<h1>Quick Funds</h1>
 								</div>
 								<div className='social-icons'>
 									<img src={iconFb} alt='' />

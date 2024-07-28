@@ -16,17 +16,18 @@ const Hero = () => {
 				<HeroWrapper>
 					<HeroContent>
 						<HeroContentWrapper>
-							<H1> Next generation digital banking</H1>
+							<H1> Quick Funds, Next Generation Digital Banking </H1>
 							<Para>
-								Take your financial life online. Your Easybank account will be a
-								one-stop-shop for spending, saving, budgeting, investing, and
-								much more.
+							Take your financial life online. Your Easybank 
+							account will be a one-stop-shop for spending,
+							 saving, budgeting, investing, and much more.
 							</Para>
-							<Button>Request Invite</Button>
+							<Button>Login</Button>
 						</HeroContentWrapper>
 					</HeroContent>
 					<HeroImage>
-						<img src={HeroImg} alt='hero' />
+						{/* <img src={HeroImg} alt='hero' /> */}
+						{/* Replace img here */}
 					</HeroImage>
 				</HeroWrapper>
 			</NoRightPaddingContainer>

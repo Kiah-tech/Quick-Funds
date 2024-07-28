@@ -29,3 +29,4 @@ then choose site name
 then choose path as `./build`
 then it will deploy to draft url
 for production deploy use `netlify deploy --prod`
+# Quick-Funds

@@ -51,4 +51,6 @@ export const Ul = styled.ul`
 export const Li = styled.li`
 	padding: 1rem 0;
 `;
-export const Logo = styled.div``;
+export const Logo = styled.div``; 
+
+

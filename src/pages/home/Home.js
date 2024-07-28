@@ -4,6 +4,7 @@ import Hero from '../../components/hero/Hero';
 import Info from '../../components/information/Info';
 import { HomeContainer } from './Home.style';
 
+
 const Home = () => {
 	return (
 		<div>

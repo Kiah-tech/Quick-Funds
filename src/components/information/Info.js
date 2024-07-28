@@ -13,7 +13,7 @@ const Info = () => {
 			<InfoWrapper>
 				<Container>
 					<InfoHeader>
-						<H2>Why choose easybank?</H2>
+						<H2>Why choose Quick Funds</H2>
 						<Para>
 							{' '}
 							We leverage Open Banking to turn your bank account into your
