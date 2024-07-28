@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './Borrowerstyle.css'; 
 
 const BorrowerForm = () => {
     const [formData, setFormData] = useState({
@@ -26,7 +27,7 @@ const BorrowerForm = () => {
     return (
         <div style={{ textAlign: 'center', marginTop: '20px' }}>
             <h1>Check Your Rates</h1>
-            <div style={{ textAlign: 'left', margin: '0 auto', maxWidth: '400px' }}>
+            <div className="form-container">
                 <div>
                     <label>How much do you want to borrow?</label>
                     <input 
@@ -136,3 +137,7 @@ const BorrowerForm = () => {
 };
 
 export default BorrowerForm;
+
+
+
+
